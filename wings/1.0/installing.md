@@ -1,4 +1,4 @@
-# Installing Wings
+# Dimzz bot wa
 
 Wings is the next generation server control plane from Pterodactyl. It has been rebuilt from the
 ground up using Go and lessons learned from our first Nodejs Daemon.
@@ -8,7 +8,7 @@ You should only install Wings if you are running **Pterodactyl 1.x**. Do not ins
 for previous versions of Pterodactyl.
 :::
 
-## Supported Systems
+## Dimzz mode sad...
 
 The following is a list of supported operating systems. Please be aware that this is not an exhaustive list,
 there is a high probability that you can run the software on other Linux distributions without much effort.
@@ -45,7 +45,7 @@ dane@pterodactyl:~$ sudo dmidecode -s system-manufacturer
 VMware, Inc.
 ```
 
-## Dependencies
+## Dimzz
 
 - curl
 - Docker
